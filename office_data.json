@@ -1,43 +1,9 @@
 {
     "office_details": [
         {
-            "telecom": [
-                {
-                    "_Person__name": "nora",
-                    "_Person__money": 5000,
-                    "_Person__mood": "tired",
-                    "_Person__healthRate": 50,
-                    "_Employee__id": 1,
-                    "_Employee__car": {
-                        "_Car__name": "fiat 128",
-                        "_Car__fuelRate": 50,
-                        "_Car__velocity": 50
-                    },
-                    "_Employee__email": "n@n.com",
-                    "_Employee__salary": 3000,
-                    "_Employee__distanceToWork": 20
-                },
-                {
-                    "_Person__name": "doaa",
-                    "_Person__money": 6000,
-                    "_Person__mood": "happy",
-                    "_Person__healthRate": 50,
-                    "_Employee__id": 2,
-                    "_Employee__car": {
-                        "_Car__name": "nissan 8",
-                        "_Car__fuelRate": 30,
-                        "_Car__velocity": 10
-                    },
-                    "_Employee__email": "d@d.com",
-                    "_Employee__salary": 4000,
-                    "_Employee__distanceToWork": 60
-                }
-            ]
-        },
-        {
             "iti": [
                 {
-                    "_Person__name": "nora",
+                    "_Person__name": "asmaa",
                     "_Person__money": 5000,
                     "_Person__mood": "tired",
                     "_Person__healthRate": 50,
@@ -52,7 +18,7 @@
                     "_Employee__distanceToWork": 20
                 },
                 {
-                    "_Person__name": "doaa",
+                    "_Person__name": "nadia",
                     "_Person__money": 6000,
                     "_Person__mood": "happy",
                     "_Person__healthRate": 50,

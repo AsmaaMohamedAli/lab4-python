@@ -119,13 +119,13 @@ class Office:
                 else:
                     emp.salary += 10
 
-"""myCar = Car("fiat 128", 50, 50)
+myCar = Car("fiat 128", 50, 50)
 myCar2 = Car("nissan 8", 30, 10)
 
 
 
-emp1 = Employee(1, myCar, "n@n.com", 3000, 20, "nora", 5000, "tired", 50)
-emp2 = Employee(2, myCar2, "d@d.com", 4000, 60, "doaa", 6000, "happy", 50)
+emp1 = Employee(1, myCar, "n@n.com", 3000, 20, "asmaa", 5000, "tired", 50)
+emp2 = Employee(2, myCar2, "d@d.com", 4000, 60, "nadia", 6000, "happy", 50)
 emp=[emp1,emp2]
 o=Office("iti",emp)
-o.officeData()"""
+o.officeData()
